@@ -16,5 +16,4 @@ https://github.com/mylenapim/Arduino-Robot-Car/blob/master/Arduino-Robot-Car-Con
 
 # Integrantes
 
-Luca Batista Barbosa - NUSP: 11275209
-Mylena Vieira Pim - NUSP: 11275241
+Luca Batista Barbosa - NUSP: 11275209 e Mylena Vieira Pim - NUSP: 11275241
