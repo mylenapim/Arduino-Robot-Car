@@ -12,4 +12,9 @@ https://github.com/mylenapim/Arduino-Robot-Car/blob/master/Robot%20Car.ino
 
 # Esquemático
 
+https://github.com/mylenapim/Arduino-Robot-Car/blob/master/Arduino-Robot-Car-Control-using-L298N-Driver-Circuit-Schematic.png
 
+# Integrantes
+
+Luca Batista Barbosa - NUSP: 11275209
+Mylena Vieira Pim - NUSP: 11275241
