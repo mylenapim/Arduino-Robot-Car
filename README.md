@@ -4,4 +4,4 @@ Projeto de um carro controlado por joystick utilizando um Arduino Uno, L298N (Po
 
 Vídeo: https://youtu.be/D15Mu8pWIss
 
-https://raw.githubusercontent.com/mylenapim/Arduino-Robot-Car/master/Robot%20car.jpg
+(https://raw.githubusercontent.com/mylenapim/Arduino-Robot-Car/master/Robot%20car.jpg)
